@@ -1,0 +1,17 @@
+.DS_Store
+
+*.plist
+*.xcodeproj
+*.xcconfig
+
+Makefile
+config.make
+
+*.app
+
+_*
+
+res/
+srcJava/
+*.gradle
+AndroidManifest.xml
